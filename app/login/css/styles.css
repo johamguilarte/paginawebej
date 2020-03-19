@@ -2,11 +2,12 @@
 	margin: auto;
 	margin-top: 12%;
 	border-radius: 30px;
-background-color: #f08080;
-width: 30%;
-height: 50%;
-text-align: center;
-} 
+	background-color: #f08080;
+	width: 30%;
+	height: 45%;
+	text-align: center;
+}
+
 body{
 background-color: #cd5d5c;
 }
