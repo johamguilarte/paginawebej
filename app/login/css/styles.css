@@ -2,15 +2,17 @@
 	margin: auto;
 	margin-top: 12%;
 	border-radius: 30px;
-	background: rgb(157,24,141);
-    background: linear-gradient(0deg, rgba(157,24,141,1) 0%, rgba(245,101,171,1) 100%);;
+	background: rgb(74,35,61);
+background: radial-gradient(circle, rgba(74,35,61,1) 0%, rgba(101,25,61,1) 99%);
+	opacity: 0.9;
 	width: 30%;
-	height: 45%;
+	height: 50%;
 	text-align: center;
 }
 
-body{
-background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,206,1) 50%, rgba(210,69,252,1) 100%);
-}
+body {
+	background-image: url(lineas.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 
+}
