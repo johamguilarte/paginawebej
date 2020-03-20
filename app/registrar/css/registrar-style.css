@@ -1,11 +1,21 @@
-*{
-
-	margin: center;
-	padding: 0;
-	box-sizing: border-box;
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: red;
 }
 
-.form-register{
-	width: 400px
+h3 {
+	color: #FF0000;
+}
+#form-register {
+	margin: auto;
+	margin-top: 12%;
+	border-radius: 30px;
+	background: rgb(74,35,61);
 	background: radial-gradient(circle, rgba(74,35,61,1) 0%, rgba(101,25,61,1) 99%);
+	opacity: 0.9;
+	width: 30%;
+	height: 60%;
+	text-align: center;
 }
+
