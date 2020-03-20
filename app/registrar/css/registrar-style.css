@@ -1,0 +1,11 @@
+*{
+
+	margin: center;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.form-register{
+	width: 400px
+	background: radial-gradient(circle, rgba(74,35,61,1) 0%, rgba(101,25,61,1) 99%);
+}
