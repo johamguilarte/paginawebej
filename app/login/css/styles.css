@@ -2,12 +2,15 @@
 	margin: auto;
 	margin-top: 12%;
 	border-radius: 30px;
-	background-color: #f08080;
+	background: rgb(157,24,141);
+    background: linear-gradient(0deg, rgba(157,24,141,1) 0%, rgba(245,101,171,1) 100%);;
 	width: 30%;
 	height: 45%;
 	text-align: center;
 }
 
 body{
-background-color: #cd5d5c;
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,206,1) 50%, rgba(210,69,252,1) 100%);
 }
+
