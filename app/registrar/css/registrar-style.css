@@ -1,11 +1,11 @@
 body {
+	background: url(../../login/css/lineas.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color: red;
 }
 
 h3 {
-	color: #FF0000;
+	color: white;
 }
 #form-register {
 	margin: auto;
