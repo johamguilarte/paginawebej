@@ -32,6 +32,8 @@ body{
  letter-spacing:1px;
 }
 
+
+
 #menu ul ul {
  display:none;
  position:absolute;
@@ -39,4 +41,13 @@ body{
  left:0;
  background:#eee;
  padding:0;
+}
+
+#menu ul ul a {
+ line-height:120%;
+ padding:10px 15px;
+}
+#menu ul li:hover {
+ display:block;
+ background:#5b78a7;
 }
